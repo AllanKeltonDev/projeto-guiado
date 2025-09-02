@@ -1,6 +1,6 @@
 #AllanKeltonDev_projeto-guiado
 
-Código Guiado, Realizado junto a plataforma HAshtag Treinamentos.
+Código Guiado, Realizado junto a plataforma Hashtag Treinamentos.
 Utilizando apenas HTML e CSS.
 
 Cópia do site Hashtag Treinamentos.
